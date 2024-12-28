@@ -1,6 +1,6 @@
 ![GitHub Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/79731568097599.5b50bca477735.jpg)  
 
-# 👋 **Hello, I'm [Lackiraj singh sisodiya]**!  
+# 👋 **Hello, I'm Lackiraj singh sisodiya**
 *Software Engineer | Cybersecurity Bug Hunter | Flutter & Kotlin Developer*
 
 Welcome to my GitHub profile! I am passionate about building mobile applications, ensuring web security through ethical hacking, and contributing to the tech community. Feel free to explore my projects, and let's collaborate! 🚀
@@ -94,17 +94,38 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ## 🛠️ **Current Focus & Learning**  
 - 📚 **AI/ML** for mobile app development and security automation.
-- 🛡️ Improving **penetration testing** skills and mastering new **ethical hacking** techniques.
-- 📈 Contributing to **open-source projects** and learning about **DevOps** and **cloud infrastructure**.
+- 🛡️ Improving **penetration testing** skills and new **ethical hacking** techniques.
+
 
 ---
 
 ## 🚀 **My Projects**  
 Here are some of the key projects I've worked on. Feel free to explore!
 
-- **[Project 1](https://github.com/lr-singh-rajput/chatApp_flutter)**: A **Flutter-based** mobile app .
+- **[Project 1](https://github.com/lr-singh-rajput/chatApp_flutter)**: A **Flutter-based** mobile app ,A beautiful, cross-platform mobile app built with **Flutter**. It’s a simple, elegant app to help users connect Everyone .
 - **[Project 2](https://github.com/lr-singh-rajput/easyShop_Kotlin)**: A **kotlin-based** Android app .
-- **[Project ](https://github.com/your-github-username/project2)**: A penetration testing tool using **Burp Suite** to detect vulnerabilities.
+- **[Project 3](https://github.com/your-github-username/project2)**: A penetration testing tool using **Burp Suite** to detect vulnerabilities.
+
+
+---
+
+## 🖼️ **Profile Image**  
+### Here's a little about me with my profile image:  
+
+ 
+
+<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image" width="300" />
+
+
+
+Hi, I'm [lr singh], a passionate **Flutter Developer** and **Web Tester**. I specialize in **mobile app development** using **Flutter** and **Kotlin**, and I also enjoy exploring **web security** by performing **bug hunting** on websites.
+
+### Technologies & Tools I Use:
+- 📱 **Mobile App Development**: I build beautiful, performant mobile applications using **Flutter** and **Kotlin** for both iOS and Android.
+- 🔐 **Web Testing & Bug Hunting** 🕵️‍♂️: I love finding vulnerabilities  on websites 
+- 🔐 **Cybersecurity Tools**: Burp Suite, Kali Linux,Amass,Nmap,Httprobe,Aquaton 🛠️
+- 🌍 **Website**: Feel free to connect with me and check out some of my work on [My Website](https://yourwebsite.com).
+
 
 ---
 
@@ -145,24 +166,6 @@ I’d love to connect with you! Here are the ways to reach me:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lr-singh-rajput)  
 
----
-
-## 🖼️ **Profile Image**  
-### Here's a little about me with my profile image:  
-
- 
-
-<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image" width="300" />
-
-
-
-Hi, I'm [lr singh], a passionate **Flutter Developer** and **Web Tester**. I specialize in **mobile app development** using **Flutter** and **Kotlin**, and I also enjoy exploring **web security** by performing **bug hunting** on websites.
-
-### Technologies & Tools I Use:
-- 📱 **Mobile App Development**: I build beautiful, performant mobile applications using **Flutter** and **Kotlin** for both iOS and Android.
-- 🔐 **Web Testing & Bug Hunting** 🕵️‍♂️: I love finding vulnerabilities  on websites 
-- 🔐 **Cybersecurity Tools**: Burp Suite, Kali Linux,Amass,Nmap,Httprobe,Aquaton 🛠️
-- 🌍 **Website**: Feel free to connect with me and check out some of my work on [My Website](https://yourwebsite.com).
 
 
 
