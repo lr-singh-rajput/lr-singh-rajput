@@ -1,15 +1,34 @@
-# 👋 **Hello, I'm [Your Name]**!  
+![GitHub Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/79731568097599.5b50bca477735.jpg)  
+
+# 👋 **Hello, I'm [Lackiraj singh sisodiya]**!  
 *Software Engineer | Cybersecurity Bug Hunter | Flutter & Kotlin Developer*
 
-Welcome to my GitHub profile! I am passionate about building powerful mobile applications, ensuring web security through ethical hacking, and contributing to the tech community. Feel free to explore my projects, and let's collaborate! 🚀
+Welcome to my GitHub profile! I am passionate about building mobile applications, ensuring web security through ethical hacking, and contributing to the tech community. Feel free to explore my projects, and let's collaborate! 🚀
 
 ---
 
-## 🖼️ **My Banner GIF**:
 
-![GitHub Banner](https://media.giphy.com/media/your-gif-url/giphy.gif)  
-*Animated banner showcasing creativity*  
-*(Replace the URL with your own GIF URL)*
+
+
+
+<img align="right" alt="Coding" width ="350" src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
+
+- 🔭 I’m currently working on **Flutter**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👯 I’m looking to collaborate on **Flutter dev and web testing**
+
+- 🤝 I’m looking for help with **Flutter Dev and cyber sicurity**
+
+- 👨‍💻 All of my projects are available at [https://lr-singh-rajput.github.io/dev_web/web/](https://lr-singh-rajput.github.io/dev_web/web/)
+
+- 💬 Ask me about **application and cyber security**
+
+- 📫 How to reach me **lackirajsingh3825@gmail.com**
+
+- 📄 Know about my experiences [https://lr-singh-rajput.github.io/resume_web/web/](https://lr-singh-rajput.github.io/resume_web/web/)
 
 ---
 
@@ -23,6 +42,11 @@ Welcome to my GitHub profile! I am passionate about building powerful mobile app
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+
 
 ### **Frameworks & Tools**:
 
@@ -36,51 +60,35 @@ Welcome to my GitHub profile! I am passionate about building powerful mobile app
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 ### **Cybersecurity Tools**:
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8A?style=flat&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-6C8E11?style=flat&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00A300?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1E5D9E?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-5C76BC?style=flat&logo=metasploit&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-D32E12?style=flat&logo=john-the-ripper&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-00A9A9?style=flat&logo=subfinder&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-1D4A4A?style=flat&logo=amass&logoColor=white)
+![Aquatone](https://img.shields.io/badge/Aquatone-6C61F2?style=flat&logo=aquatone&logoColor=white)
+![Httprobe](https://img.shields.io/badge/Httprobe-6D91F7?style=flat&logo=httprobe&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat&logo=snort&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-F56500?style=flat&logo=hashcat&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-222222?style=flat&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-5C6B72?style=flat&logo=nessus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-0A5B5B?style=flat&logo=ghidra&logoColor=white)
 
 ---
 
 ## 💡 **What I Do**  
 - **Mobile App Development**: Building beautiful and high-performance mobile apps with **Flutter** and **Kotlin**.
-- **Cybersecurity**: Conducting **ethical hacking**, **web security assessments**, and **penetration testing** on websites and mobile apps.
+- **Cybersecurity**: Conducting **ethical hacking**, **web security assessments**, and **penetration testing** on websites.
 - **Game Development**: Crafting interactive and engaging games using **Unity** and **C#**.
-- **Full-Stack Web Development**: Developing full-stack web applications using **Node.js**, **MongoDB**, **Firebase**, and **MySQL**.
 
----
 
-## 📊 **GitHub Stats & Achievements**
-
-### **GitHub Stats**:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&count_private=true&show_icons=true&hide_title=true&hide=prs)
-
-### **Top Languages**:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=10)](https://github.com/your-github-username)
-
----
-
-## 🌐 **Connect with Me**  
-I’d love to connect with you! Here are the ways to reach me:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Instagram](https://www.instagram.com/your-profile)  
-- [Twitter](https://x.com/your-profile)  
-- [Personal Website](https://www.yourwebsite.com)
-
----
-
-## 🚀 **My Projects**  
-Here are some of the key projects I've worked on. Feel free to explore!
-
-- **[Project 1](https://github.com/your-github-username/project1)**: A Flutter-based mobile app for [describe the project].
-- **[Project 2](https://github.com/your-github-username/project2)**: A penetration testing tool using **Burp Suite** to detect vulnerabilities.
-- **[Project 3](https://github.com/your-github-username/project3)**: Full-stack web application built with **Node.js** and **MongoDB**.
 
 ---
 
@@ -91,32 +99,73 @@ Here are some of the key projects I've worked on. Feel free to explore!
 
 ---
 
+## 🚀 **My Projects**  
+Here are some of the key projects I've worked on. Feel free to explore!
+
+- **[Project 1](https://github.com/lr-singh-rajput/chatApp_flutter)**: A **Flutter-based** mobile app .
+- **[Project 2](https://github.com/lr-singh-rajput/easyShop_Kotlin)**: A **kotlin-based** Android app .
+- **[Project ](https://github.com/your-github-username/project2)**: A penetration testing tool using **Burp Suite** to detect vulnerabilities.
+
+---
+
+## 🌐 **Connect with Me**  
+I’d love to connect with you! Here are the ways to reach me:
+
+<p align="left">
+<a href="https://twitter.com/lr_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lr_singh_rajput" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lr-singh-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lr-singh-rajput" height="30" width="40" /></a>
+<a href="https://instagram.com/lr_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lr_singh_rajput" height="30" width="40" /></a>
+
+<a href="https://lr-singh-rajput.github.io/resume_web/web/" target="blank">
+  <img align="center" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/favicon.png" alt="Website" height="40" width="40" />
+</a>
+
+
+</p>
+
+---
+
+## 📊 **GitHub Stats & Achievements**
+
+### **GitHub Stats**:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lr-singh-rajput&count_private=true&show_icons=true&hide_title=true&hide=prs)
+
+### **Top Languages**:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lr-singh-rajput&size_weight=0.5&count_weight=0.5)
+
+
+
+
+
+---
+
 ## 🌟 **GitHub Streak Stats**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)  
-*Keep the streak going!*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lr-singh-rajput)  
 
 ---
 
 ## 🖼️ **Profile Image**  
-Here's a little about me with my profile image:  
+### Here's a little about me with my profile image:  
 
-![Your Profile Image](https://github.com/your-github-username.png)  
-*(Make sure to upload your own profile picture on GitHub for a personal touch)*
+ 
 
----
+<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image" width="300" />
 
-## 🎨 **Designing with Passion**
 
-I believe design is a key part of creating functional apps. I try to make both the functionality and design of my projects clean and user-friendly.
 
-Feel free to browse through my repositories to see how I bring creativity and coding together!
+Hi, I'm [lr singh], a passionate **Flutter Developer** and **Web Tester**. I specialize in **mobile app development** using **Flutter** and **Kotlin**, and I also enjoy exploring **web security** by performing **bug hunting** on websites.
 
----
+### Technologies & Tools I Use:
+- 📱 **Mobile App Development**: I build beautiful, performant mobile applications using **Flutter** and **Kotlin** for both iOS and Android.
+- 🔐 **Web Testing & Bug Hunting** 🕵️‍♂️: I love finding vulnerabilities  on websites 
+- 🔐 **Cybersecurity Tools**: Burp Suite, Kali Linux,Amass,Nmap,Httprobe,Aquaton 🛠️
+- 🌍 **Website**: Feel free to connect with me and check out some of my work on [My Website](https://yourwebsite.com).
 
-## 💬 **Let's Collaborate!**
 
-I'm always open to new projects, collaborations, and contributing to interesting repositories. If you have an idea or just want to chat about tech, feel free to reach out!
+
 
 ---
 
