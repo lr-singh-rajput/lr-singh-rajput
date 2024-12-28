@@ -113,7 +113,7 @@ Here are some of the key projects I've worked on. Feel free to explore!
 
  
 
-<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image" width="300" />
+<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image" height ="300"/>
 
 
 
