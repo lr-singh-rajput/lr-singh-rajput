@@ -113,11 +113,11 @@ Here are some of the key projects I've worked on. Feel free to explore!
 
  
 
-<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image" height ="300"/>
+<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image"  width ="300"/>
 
 
 
-Hi, I'm [lr singh], a passionate **Flutter Developer** and **Web Tester**. I specialize in **mobile app development** using **Flutter** and **Kotlin**, and I also enjoy exploring **web security** by performing **bug hunting** on websites.
+Hi, I'm lr singh, a passionate **Flutter Developer** and **Web Tester**. I specialize in **mobile app development** using **Flutter** and **Kotlin**, and I also enjoy exploring **web security** by performing **bug hunting** on websites.
 
 ### Technologies & Tools I Use:
 - 📱 **Mobile App Development**: I build beautiful, performant mobile applications using **Flutter** and **Kotlin** for both iOS and Android.
