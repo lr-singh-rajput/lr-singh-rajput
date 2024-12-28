@@ -7,10 +7,6 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ---
 
-
-
-
-
 <img align="right" alt="Coding" width ="350" src ="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
@@ -30,6 +26,9 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 - 📄 Know about my experiences [https://lr-singh-rajput.github.io/resume_web/web/](https://lr-singh-rajput.github.io/resume_web/web/)
 
+- Visitors: ![Visitors](https://profile-counter.glitch.me/lr-singh-rajput/count.svg)
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lr-singh-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="lr-singh-rajput" /> </p>
 ---
 
 ## 🌐 **Tech Stack & Skills**
