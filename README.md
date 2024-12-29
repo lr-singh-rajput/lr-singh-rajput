@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ### **Languages**:
 
-<img align="left" alt="Coding" width ="100" src ="https://media.tenor.com/KMFQut1j8KwAAAAM/scaler-create-impact.gif">
+<img align="right" alt="Coding" width ="200" src ="https://media.tenor.com/KMFQut1j8KwAAAAM/scaler-create-impact.gif">
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
