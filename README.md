@@ -1,6 +1,4 @@
-![GitHub Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/79731568097599.5b50bca477735.jpg)  
-
-![GitHub Banner](https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif)  
+![GitHub Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/79731568097599.5b50bca477735.jpg)    
 
 
 # 👋 **Hello, I'm Lackiraj singh sisodiya**
@@ -66,6 +64,10 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ### **Cybersecurity Tools**:
 
+---
+
+<img align="right" alt="Coding" width ="200" src ="https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif">
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8A?style=flat&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-6C8E11?style=flat&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00A300?style=flat&logo=nmap&logoColor=white)
@@ -116,7 +118,7 @@ Here are some of the key projects I've worked on. Feel free to explore!
 
  
 
-<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image"  width ="270"/>
+<img align="right" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/myphoto.jpeg" alt="Your Profile Image"  width ="290"/>
 
 
 
