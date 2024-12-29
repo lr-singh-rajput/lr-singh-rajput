@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ---
 
-<img align="right" alt="Coding" width ="200" src ="https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif">
+<img align="left" alt="Coding" width ="150" src ="https://www.b2w.tv/hubfs/ezgif.com-gif-maker%20%2813%29-1.gif">
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8A?style=flat&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-6C8E11?style=flat&logo=burp-suite&logoColor=white)
