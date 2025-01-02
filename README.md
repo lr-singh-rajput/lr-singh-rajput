@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 ![Hashcat](https://img.shields.io/badge/Hashcat-F56500?style=flat&logo=hashcat&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-222222?style=flat&logo=owasp&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-5C6B72?style=flat&logo=nessus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ![Ghidra](https://img.shields.io/badge/Ghidra-0A5B5B?style=flat&logo=ghidra&logoColor=white)
 
 ---
