@@ -149,12 +149,7 @@ I’d love to connect with you! Here are the ways to reach me:
 
 <p align="left">
 <a href="https://twitter.com/lr_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lr_singh_rajput" height="30" width="40" /></a>
- 
-<a href="https://www.linkedin.com/in/lr-singh-rajput-a416a0318?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lr-singh-rajput" height="30" width="40" /></a>
-
-<a href="https://instagram.com/lr_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lr_singh_rajput" height="30" width="40" /></a>
-
-
+<a href="https://www.linkedin.com/in/lr-singh-rajput-a416a0318?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lr-singh-rajput" height="30" width="40" /></a><a href="https://instagram.com/lr_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lr_singh_rajput" height="30" width="40" /></a>
 <a href="https://lr-singh-rajput.github.io/resume_web/web/" target="blank">
   <img align="center" src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/favicon.png" alt="Website" height="40" width="40" />
 </a>
