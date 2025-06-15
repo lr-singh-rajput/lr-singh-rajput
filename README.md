@@ -97,6 +97,18 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 ![Ghidra](https://img.shields.io/badge/Ghidra-0A5B5B?style=flat&logo=ghidra&logoColor=white)
 
 ### **Tools & Frameworks:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib" />
+</p>
+
 - ![Jupyter](https://img.shields.io/badge/Jupyter-FF2B01?style=flat&logo=jupyter&logoColor=white) **Jupyter Notebook** – Interactive data analysis and ML prototyping  
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) **TensorFlow** – Deep learning framework by Google  
 - ![Keras](https://img.shields.io/badge/Keras-FF3B2F?style=flat&logo=keras&logoColor=white) **Keras** – High-level neural network API running on top of TensorFlow  
