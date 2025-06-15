@@ -96,6 +96,10 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-0A5B5B?style=flat&logo=ghidra&logoColor=white)
 
+
+## 🤖 **Machine Learning & Deep Learning**
+
+### **Languages & Libraries for ML/DL:**
 ### **Tools & Frameworks:**
 
 <p align="left">
