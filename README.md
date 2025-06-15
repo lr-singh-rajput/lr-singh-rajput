@@ -96,6 +96,18 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ![Ghidra](https://img.shields.io/badge/Ghidra-0A5B5B?style=flat&logo=ghidra&logoColor=white)
 
+### **Tools & Frameworks:**
+- ![Jupyter](https://img.shields.io/badge/Jupyter-FF2B01?style=flat&logo=jupyter&logoColor=white) **Jupyter Notebook** – Interactive data analysis and ML prototyping  
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) **TensorFlow** – Deep learning framework by Google  
+- ![Keras](https://img.shields.io/badge/Keras-FF3B2F?style=flat&logo=keras&logoColor=white) **Keras** – High-level neural network API running on top of TensorFlow  
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **PyTorch** – Deep learning framework used for research and production  
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) **Scikit-Learn** – ML library for algorithms and data preprocessing  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) **Pandas** – Data manipulation and analysis  
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) **Matplotlib** – Plotting and visualization  
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) **OpenCV** – Computer vision tasks  
+
+
+
 ---
 
 ## 💡 **What I Do**  
