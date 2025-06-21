@@ -99,7 +99,7 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 ## 🤖 **Machine Learning & Deep Learning**
 
-### **Languages & Libraries for ML/DL:**
+
 ### **Tools & Frameworks:**
 
 <p align="left">
