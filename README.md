@@ -98,6 +98,7 @@ Welcome to my GitHub profile! I am passionate about building mobile applications
 
 
 ## 🤖 **Machine Learning & Deep Learning**
+<img align="right" alt="Coding" width ="300" src ="https://i.gifer.com/Ckp3.gif">
 
 
 ### **Tools & Frameworks:**
